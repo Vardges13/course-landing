@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vardges13.github.io/course-landing/sitemap.xml
